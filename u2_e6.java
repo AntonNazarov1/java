@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.Scanner;        // делители числа
 
 
 public class u2_e6 {
